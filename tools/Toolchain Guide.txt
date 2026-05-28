@@ -1,0 +1,37 @@
+English:
+Please download the toolchain first, such as the MingGW compiler and NASM assembler, and unzip it into the Tools folder in your project.
+The link is as follows MingGW:https://winlibs.com/ NASM:https://www.nasm.us/pub/nasm/releasebuilds/3.01/win64/
+It is recommended to download the Win64 and .7z versions.
+It is recommended to download the Win64 ZIP version of NASM and unzip it to the Tools directory.
+简体中文
+请先下载工具链（例如 MingGW 编译器和 NASM 汇编器），并将其解压到项目中的 Tools 文件夹内。
+下载链接如下：
+MingGW：https://winlibs.com/
+NASM：https://www.nasm.us/pub/nasm/releasebuilds/3.01/win64/
+建议下载 Win64 位的.7z 格式版本。
+建议下载 NASM 的 Win64 位 ZIP 版本，并将其解压至 Tools 目录。
+俄语
+Сначала загрузите инструментальную цепочку, например компилятор MingGW и ассемблер NASM, и распакуйте её в папку Tools вашего проекта.
+Ссылки для загрузки: MingGW: https://winlibs.com/ , NASM: https://www.nasm.us/pub/nasm/releasebuilds/3.01/win64/
+Рекомендуется загрузить версию Win64 в формате .7z.
+Для NASM рекомендуется загрузить версию Win64 в формате ZIP и распаковать её в каталог Tools.
+日语
+まず、MingGW コンパイラや NASM アセンブラなどのツールチェーンをダウンロードし、プロジェクト内の Tools フォルダに解凍してください。
+ダウンロードリンクは以下の通りです：MingGW：https://winlibs.com/ 、NASM：https://www.nasm.us/pub/nasm/releasebuilds/3.01/win64/
+Win64 版の.7z 形式をダウンロードすることを推奨します。
+NASM については Win64 版の ZIP 形式をダウンロードし、Tools ディレクトリに解凍することを推奨します。
+法语
+Veuillez d'abord télécharger la chaîne d'outils, telle que le compilateur MingGW et l'assembleur NASM, puis la décompresser dans le dossier Tools de votre projet.
+Les liens de téléchargement sont les suivants : MingGW : https://winlibs.com/ , NASM : https://www.nasm.us/pub/nasm/releasebuilds/3.01/win64/
+Il est recommandé de télécharger la version Win64 au format .7z.
+Il est recommandé de télécharger la version Win64 au format ZIP de NASM et de la décompresser dans le répertoire Tools.
+德语
+Bitte laden Sie zuerst die Toolchain herunter, z. B. den MingGW-Compiler und den NASM-Assembler, und entpacken Sie sie in den Tools-Ordner Ihres Projekts.
+Die Download-Links lauten wie folgt: MingGW: https://winlibs.com/ , NASM: https://www.nasm.us/pub/nasm/releasebuilds/3.01/win64/
+Es wird empfohlen, die Win64-Version im .7z-Format herunterzuladen.
+Für NASM wird empfohlen, die Win64-Version im ZIP-Format herunterzuladen und in das Tools-Verzeichnis zu entpacken.
+西班牙语
+Primero, descargue la cadena de herramientas, como el compilador MingGW y el ensamblador NASM, y descomprímala en la carpeta Tools de su proyecto.
+Los enlaces de descarga son los siguientes: MingGW: https://winlibs.com/ , NASM: https://www.nasm.us/pub/nasm/releasebuilds/3.01/win64/
+Se recomienda descargar la versión Win64 en formato .7z.
+Se recomienda descargar la versión Win64 en formato ZIP de NASM y descomprimirla en el directorio Tools.
